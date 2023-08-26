@@ -1,0 +1,9 @@
+{
+    "name": "omar/scandi",
+    "autoload": {
+        "psr-4": {
+            "Omar\\Scandi\\": "app/"
+        }
+    },
+    "require": {}
+}
